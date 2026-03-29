@@ -1,7 +1,7 @@
 # Awesome Bitcoin
 
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,442 | 🐛 88 | 📅 2026-03-09
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,693 | 🐛 88 | 📅 2026-03-09
 
 ## List of content
 
@@ -31,7 +31,7 @@ A curated list of bitcoin services and tools for software developers
 ## Utilities
 
 * [Pycoin](https://github.com/richardkiss/pycoin) ⭐ 1,440 | 🐛 54 | 🌐 Python | 📅 2026-03-01 - Python-based Bitcoin and alt-coin utility library.
-* [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,377 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
+* [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,376 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) ⭐ 634 | 🐛 20 | 🌐 C++ | 📅 2024-03-01 - Bitcoin Command Line Tool.
 * [Nigiri](https://github.com/vulpemventures/nigiri/) ⭐ 328 | 🐛 44 | 🌐 Go | 📅 2026-03-23 - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) ⭐ 256 | 🐛 2 | 🌐 Go | 📅 2017-03-22 - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
@@ -39,6 +39,7 @@ A curated list of bitcoin services and tools for software developers
 * [txwatcher](https://github.com/tsileo/txwatcher) ⭐ 50 | 🐛 6 | 🌐 Python | 📅 2018-03-04 - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) ⭐ 35 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-11 - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 * [BTC Tooling](https://github.com/douvy/btc-tooling) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12 - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
+* [PaperVault](https://github.com/boazeb/papervault) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-22 - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
 * [Bitcoin Serverless Donations](https://github.com/tombennet/bitcoin-serverless-donations) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-15 - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 * [BTC Airgap Bridge](https://github.com/paranoid-qrypto/btc-airgap-bridge) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-03 - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 * [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-03 - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
@@ -94,7 +95,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Privacy projects
 
-* [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) ⭐ 823 | 🐛 226 | 🌐 Python | 📅 2026-02-11 - Decentralized CoinJoin implementation
+* [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) ⭐ 823 | 🐛 226 | 🌐 Python | 📅 2026-03-28 - Decentralized CoinJoin implementation
 * [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
 
 ## Blockchain Explorers
@@ -111,8 +112,8 @@ A curated list of bitcoin services and tools for software developers
 
 ## C Libraries
 
-* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,411 | 🐛 164 | 🌐 C | 📅 2026-03-26
-* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) ⭐ 23 | 🐛 6 | 🌐 C++ | 📅 2026-03-28 - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,413 | 🐛 164 | 🌐 C | 📅 2026-03-26
+* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) ⭐ 23 | 🐛 5 | 🌐 C++ | 📅 2026-03-29 - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
 ## C++ Libraries
 
@@ -125,7 +126,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) ⭐ 4,986 | 🐛 41 | 🌐 TypeScript | 📅 2026-03-27
 * [bcoin](https://github.com/bcoin-org/bcoin) ⭐ 3,069 | 🐛 202 | 🌐 JavaScript | 📅 2024-02-12 - Javascript bitcoin library for node.js and browsers.
 * [noble-curves](https://github.com/paulmillr/noble-curves) ⭐ 891 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-23 — audited implementation of secp256k1 + schnorr in pure typescript
-* [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) ⭐ 868 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-23 — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+* [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) ⭐ 867 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-23 — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 * [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) ⭐ 236 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-23 — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) ⭐ 62 | 🐛 0 | 📅 2016-02-17
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) ⭐ 39 | 🐛 19 | 🌐 JavaScript | 📅 2022-03-09
@@ -147,7 +148,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Rust Libraries
 
-* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,609 | 🐛 489 | 🌐 Rust | 📅 2026-03-28 - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,609 | 🐛 488 | 🌐 Rust | 📅 2026-03-29 - support for de/serialization, parsing and executing on data-structures and network messages.
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) ⭐ 42 | 🐛 5 | 🌐 Rust | 📅 2026-02-25 -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
@@ -165,7 +166,7 @@ A curated list of bitcoin services and tools for software developers
 
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
 
-* [XChange](https://github.com/knowm/XChange) ⭐ 4,051 | 🐛 345 | 🌐 Java | 📅 2026-02-26 - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [XChange](https://github.com/knowm/XChange) ⭐ 4,049 | 🐛 346 | 🌐 Java | 📅 2026-02-26 - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 * [Bitcoin Spring Boot Starter](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) ⭐ 80 | 🐛 16 | 🌐 Java | 📅 2026-03-01 - Bitcoin integration for Spring Boot applications.
 * [BitcoinJ](https://bitcoinj.github.io)
 
@@ -219,7 +220,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Read
 
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,165 | 🐛 192 | 🌐 HTML | 📅 2024-12-26
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,163 | 🐛 192 | 🌐 HTML | 📅 2024-12-26
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum) ⭐ 696 | 🐛 0 | 📅 2025-08-23.
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum) ⭐ 376 | 🐛 0 | 📅 2023-12-07.
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS) ⭐ 163 | 🐛 5 | 🌐 CSS | 📅 2023-01-10.
@@ -249,7 +250,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,442 | 🐛 88 | 📅 2026-03-09 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,693 | 🐛 88 | 📅 2026-03-09 list thing.
 Created by BlockchainU fellows.
 
 ***
