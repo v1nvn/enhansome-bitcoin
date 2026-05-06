@@ -1,7 +1,7 @@
 # Awesome Bitcoin
 
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 462,614 | 🐛 71 | 📅 2026-05-03
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,026 | 🐛 69 | 📅 2026-05-05
 
 ## List of content
 
@@ -113,21 +113,21 @@ A curated list of bitcoin services and tools for software developers
 ## C Libraries
 
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,423 | 🐛 169 | 🌐 C | 📅 2026-04-29
-* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2026-05-05 - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
+* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2026-05-06 - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
 ## C++ Libraries
 
 * [Libbitcoin](https://libbitcoin.info/)
-* [libwally-core](https://github.com/ElementsProject/libwally-core) ⭐ 302 | 🐛 30 | 🌐 C | 📅 2026-04-15
+* [libwally-core](https://github.com/ElementsProject/libwally-core) ⭐ 302 | 🐛 31 | 🌐 C | 📅 2026-05-05
 
 ## JavaScript Libraries
 
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 5,984 | 🐛 47 | 🌐 JavaScript | 📅 2026-02-17
-* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) ⭐ 4,986 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-01
-* [bcoin](https://github.com/bcoin-org/bcoin) ⭐ 3,070 | 🐛 201 | 🌐 JavaScript | 📅 2024-02-12 - Javascript bitcoin library for node.js and browsers.
-* [noble-curves](https://github.com/paulmillr/noble-curves) ⭐ 900 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 — audited implementation of secp256k1 + schnorr in pure typescript
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 5,984 | 🐛 46 | 🌐 JavaScript | 📅 2026-02-17
+* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) ⭐ 4,986 | 🐛 40 | 🌐 TypeScript | 📅 2026-05-05
+* [bcoin](https://github.com/bcoin-org/bcoin) ⭐ 3,069 | 🐛 201 | 🌐 JavaScript | 📅 2024-02-12 - Javascript bitcoin library for node.js and browsers.
+* [noble-curves](https://github.com/paulmillr/noble-curves) ⭐ 899 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-29 — audited implementation of secp256k1 + schnorr in pure typescript
 * [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) ⭐ 873 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-29 — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
-* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) ⭐ 238 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-28 — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) ⭐ 237 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-28 — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs) ⭐ 62 | 🐛 0 | 📅 2016-02-17
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs) ⭐ 39 | 🐛 19 | 🌐 JavaScript | 📅 2022-03-09
 * [bitcoin-sdk-js](https://github.com/ChrisCho-H/bitcoin-sdk-js) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2025-10-24 — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
@@ -148,7 +148,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Rust Libraries
 
-* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,621 | 🐛 477 | 🌐 Rust | 📅 2026-05-04 - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,619 | 🐛 473 | 🌐 Rust | 📅 2026-05-05 - support for de/serialization, parsing and executing on data-structures and network messages.
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) ⭐ 43 | 🐛 5 | 🌐 Rust | 📅 2026-02-25 -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
@@ -166,7 +166,7 @@ A curated list of bitcoin services and tools for software developers
 
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
 
-* [XChange](https://github.com/knowm/XChange) ⭐ 4,062 | 🐛 345 | 🌐 Java | 📅 2026-04-19 - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [XChange](https://github.com/knowm/XChange) ⭐ 4,064 | 🐛 345 | 🌐 Java | 📅 2026-04-19 - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 * [Bitcoin Spring Boot Starter](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) ⭐ 82 | 🐛 15 | 🌐 Java | 📅 2026-05-03 - Bitcoin integration for Spring Boot applications.
 * [BitcoinJ](https://bitcoinj.github.io)
 
@@ -178,7 +178,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Swift libraries
 
-* [secp256k1.swift](https://github.com/GigaBitcoin/secp256k1.swift) ⭐ 151 | 🐛 3 | 🌐 Swift | 📅 2026-05-04 - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+* [secp256k1.swift](https://github.com/GigaBitcoin/secp256k1.swift) ⭐ 151 | 🐛 3 | 🌐 Swift | 📅 2026-05-05 - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## .Net Libraries
 
@@ -211,8 +211,8 @@ A curated list of bitcoin services and tools for software developers
 
 ## Full nodes
 
-* [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,684 | 🐛 334 | 🌐 Go | 📅 2026-04-30 - Go-based full node since 2013.
-* [Bitcore](https://github.com/bitpay/bitcore) ⭐ 4,986 | 🐛 41 | 🌐 TypeScript | 📅 2026-05-01 - Formerly just a Nodejs library, now a full node.
+* [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,684 | 🐛 335 | 🌐 Go | 📅 2026-04-30 - Go-based full node since 2013.
+* [Bitcore](https://github.com/bitpay/bitcore) ⭐ 4,986 | 🐛 40 | 🌐 TypeScript | 📅 2026-05-05 - Formerly just a Nodejs library, now a full node.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) ⭐ 352 | 🐛 89 | 🌐 JavaScript | 📅 2023-03-08 - bitcoind linked to node.js by BitPay.
 * [Fullnode](https://github.com/moneybutton/yours-bitcoin) ⭐ 196 | 🐛 29 | 🌐 JavaScript | 📅 2022-04-16 - Javascript implementation of bitcoin.
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) ⭐ 26 | 🐛 3 | 🌐 Ruby | 📅 2016-04-23 - bitcoin node based on bitcoin-ruby-blockchain.
@@ -220,7 +220,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Read
 
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,202 | 🐛 193 | 🌐 HTML | 📅 2024-12-26
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,200 | 🐛 193 | 🌐 HTML | 📅 2024-12-26
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum) ⭐ 690 | 🐛 0 | 📅 2025-08-23.
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum) ⭐ 373 | 🐛 0 | 📅 2023-12-07.
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS) ⭐ 164 | 🐛 5 | 🌐 CSS | 📅 2023-01-10.
@@ -250,7 +250,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 462,614 | 🐛 71 | 📅 2026-05-03 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,026 | 🐛 69 | 📅 2026-05-05 list thing.
 Created by BlockchainU fellows.
 
 ***
