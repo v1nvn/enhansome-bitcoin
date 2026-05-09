@@ -57,7 +57,7 @@
             "last_commit": "2026-04-07T03:01:36Z",
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1441
+            "stars": 1440
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2023-02-28T22:38:55Z",
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-04-29T06:04:16Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2423
+            "stars": 2424
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-08T03:16:37Z",
+            "last_commit": "2026-05-09T04:12:59Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 37
@@ -365,7 +365,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T14:34:10Z",
+            "last_commit": "2026-05-08T17:50:59Z",
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4986
@@ -381,7 +381,7 @@
             "last_commit": "2026-02-17T01:08:49Z",
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 5984
+            "stars": 5986
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-04-29T10:03:13Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 899
+            "stars": 900
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-04-29T09:35:34Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 873
+            "stars": 872
           }
         },
         {
@@ -580,7 +580,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-06T15:48:07Z",
+            "last_commit": "2026-05-09T03:36:17Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2620
@@ -659,7 +659,7 @@
             "last_commit": "2026-04-07T03:01:36Z",
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1441
+            "stars": 1440
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2022-01-30T09:47:26Z",
             "owner": "sr-gi",
             "repo": "bitcoin_tools",
-            "stars": 311
+            "stars": 310
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2026-04-19T08:51:17Z",
             "owner": "knowm",
             "repo": "XChange",
-            "stars": 4063
+            "stars": 4064
           }
         },
         {
@@ -919,7 +919,7 @@
             "last_commit": "2026-05-06T21:17:52Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6684
+            "stars": 6685
           }
         },
         {
@@ -968,7 +968,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T14:34:10Z",
+            "last_commit": "2026-05-08T17:50:59Z",
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4986
@@ -1000,7 +1000,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25195
+            "stars": 25199
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:53:13.669Z",
+    "last_updated": "2026-05-09T05:21:22.130Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
