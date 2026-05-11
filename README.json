@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-10T02:10:49Z",
+            "last_commit": "2026-05-11T01:06:14Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 38
@@ -412,7 +412,7 @@
             "last_commit": "2024-02-12T16:30:12Z",
             "owner": "bcoin-org",
             "repo": "bcoin",
-            "stars": 3068
+            "stars": 3067
           }
         },
         {
@@ -580,10 +580,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-10T02:55:43Z",
+            "last_commit": "2026-05-10T12:32:24Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2619
+            "stars": 2621
           }
         },
         {
@@ -719,7 +719,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-03T01:41:58Z",
+            "last_commit": "2026-05-10T11:48:33Z",
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 82
@@ -738,7 +738,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-06T13:15:35Z",
+            "last_commit": "2026-05-11T02:40:17Z",
             "owner": "MetacoSA",
             "repo": "NBitcoin",
             "stars": 1945
@@ -919,7 +919,7 @@
             "last_commit": "2026-05-06T21:17:52Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6685
+            "stars": 6686
           }
         },
         {
@@ -1000,7 +1000,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25197
+            "stars": 25199
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:36:50.551Z",
+    "last_updated": "2026-05-11T05:58:54.871Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
