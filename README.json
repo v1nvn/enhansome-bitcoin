@@ -57,7 +57,7 @@
             "last_commit": "2026-04-07T03:01:36Z",
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1440
+            "stars": 1441
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-30T23:30:07Z",
+            "last_commit": "2026-05-14T22:25:46Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1228
+            "stars": 1229
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-04-29T06:04:16Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2425
+            "stars": 2424
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-14T05:21:49Z",
+            "last_commit": "2026-05-15T05:18:02Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 38
@@ -427,10 +427,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T23:47:15Z",
+            "last_commit": "2026-05-14T14:28:03Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 903
+            "stars": 904
           }
         },
         {
@@ -580,10 +580,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-13T13:42:16Z",
+            "last_commit": "2026-05-14T13:33:48Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2623
+            "stars": 2624
           }
         },
         {
@@ -659,7 +659,7 @@
             "last_commit": "2026-04-07T03:01:36Z",
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1440
+            "stars": 1441
           }
         },
         {
@@ -814,7 +814,7 @@
             "last_commit": "2026-03-30T11:19:16Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5654
+            "stars": 5655
           }
         },
         {
@@ -916,10 +916,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-12T22:04:56Z",
+            "last_commit": "2026-05-15T02:54:26Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6688
+            "stars": 6689
           }
         },
         {
@@ -1000,7 +1000,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25201
+            "stars": 25202
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2025-08-23T20:49:32Z",
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 691
+            "stars": 692
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:48:04.404Z",
+    "last_updated": "2026-05-15T05:54:26.716Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
