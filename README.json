@@ -168,6 +168,11 @@
         },
         {
           "children": [],
+          "description": "Real-time Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain and macro signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, ETF flows) into a daily P(bottom) score. Free, updated twice daily.",
+          "title": "Bitcoin Bottom Score"
+        },
+        {
+          "children": [],
           "description": "100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.",
           "title": "BTC Airgap Bridge",
           "repo_info": {
@@ -190,6 +195,19 @@
             "owner": "8144225309",
             "repo": "superscalar-mcp",
             "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source memory layer for AI agents in the Bitcoin/Lightning economy. L402 payment gateway, vendor reputation, spending anomaly detection.",
+          "title": "Lightning Memory",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T02:36:23Z",
+            "owner": "singularityjason",
+            "repo": "lightning-memory",
+            "stars": 7
           }
         }
       ],
@@ -320,7 +338,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-19T06:29:32Z",
+            "last_commit": "2026-05-20T07:51:02Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2425
@@ -333,7 +351,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-20T02:55:58Z",
+            "last_commit": "2026-05-21T00:12:57Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 38
@@ -471,6 +489,19 @@
             "repo": "bitcoin-sdk-js",
             "stars": 39
           }
+        },
+        {
+          "children": [],
+          "description": "HTTP 402 payment middleware for Node.js; gates any API behind Lightning, Cashu, or stablecoin payments with five backend options.",
+          "title": "toll-booth",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T06:28:36Z",
+            "owner": "forgesworn",
+            "repo": "toll-booth",
+            "stars": 1
+          }
         }
       ],
       "title": "JavaScript Libraries"
@@ -580,7 +611,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-19T13:55:49Z",
+            "last_commit": "2026-05-20T12:33:01Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2626
@@ -706,10 +737,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-19T23:11:07Z",
+            "last_commit": "2026-05-20T20:02:46Z",
             "owner": "knowm",
             "repo": "XChange",
-            "stars": 4063
+            "stars": 4064
           }
         },
         {
@@ -723,6 +754,19 @@
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 82
+          }
+        },
+        {
+          "children": [],
+          "description": "Bech32 and Bech32m encode/decode library.",
+          "title": "bech32",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-17T23:13:18Z",
+            "owner": "NostrGameEngine",
+            "repo": "bech32",
+            "stars": 0
           }
         }
       ],
@@ -919,7 +963,7 @@
             "last_commit": "2026-05-15T02:54:26Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6690
+            "stars": 6689
           }
         },
         {
@@ -1000,7 +1044,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25202
+            "stars": 25203
           }
         },
         {
@@ -1072,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:07:14.484Z",
+    "last_updated": "2026-05-21T06:09:43.343Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
