@@ -132,7 +132,7 @@
             "last_commit": "2023-02-28T22:38:55Z",
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1378
+            "stars": 1377
           }
         },
         {
@@ -209,6 +209,11 @@
             "repo": "lightning-memory",
             "stars": 7
           }
+        },
+        {
+          "children": [],
+          "description": "Bitcoin profitability and on-chain calculators: ASIC/GPU mining ROI, hash rate converter, halving countdown, Mayer Multiple, Stock-to-Flow (S2F), Rainbow chart, profit/loss, DCA simulator, tax estimator, liquidation price. Client-side, no signup, available in 6 languages.",
+          "title": "CryptoCalk"
         }
       ],
       "title": "Utilities"
@@ -351,10 +356,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-23T00:40:24Z",
+            "last_commit": "2026-05-24T05:17:01Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
-            "stars": 38
+            "stars": 39
           }
         }
       ],
@@ -448,7 +453,7 @@
             "last_commit": "2026-05-14T14:28:03Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 909
+            "stars": 910
           }
         },
         {
@@ -461,7 +466,7 @@
             "last_commit": "2026-04-29T09:35:34Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -497,7 +502,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-18T06:28:36Z",
+            "last_commit": "2026-05-23T14:17:05Z",
             "owner": "forgesworn",
             "repo": "toll-booth",
             "stars": 1
@@ -611,7 +616,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-23T04:06:58Z",
+            "last_commit": "2026-05-24T03:35:50Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2626
@@ -703,7 +708,7 @@
             "last_commit": "2022-01-30T09:47:26Z",
             "owner": "sr-gi",
             "repo": "bitcoin_tools",
-            "stars": 310
+            "stars": 311
           }
         },
         {
@@ -750,7 +755,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-22T04:06:43Z",
+            "last_commit": "2026-05-24T00:54:49Z",
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 82
@@ -963,7 +968,7 @@
             "last_commit": "2026-05-15T02:54:26Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6689
+            "stars": 6688
           }
         },
         {
@@ -1044,7 +1049,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25205
+            "stars": 25207
           }
         },
         {
@@ -1116,7 +1121,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:38:52.998Z",
+    "last_updated": "2026-05-24T06:01:29.113Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
