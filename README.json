@@ -346,7 +346,7 @@
             "last_commit": "2026-05-20T07:51:02Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2431
+            "stars": 2432
           }
         },
         {
@@ -356,7 +356,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-29T20:38:42Z",
+            "last_commit": "2026-05-31T00:58:56Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 39
@@ -391,7 +391,7 @@
             "last_commit": "2026-05-25T19:04:11Z",
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4987
+            "stars": 4986
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2026-02-17T01:08:49Z",
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 5989
+            "stars": 5990
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2024-02-12T16:30:12Z",
             "owner": "bcoin-org",
             "repo": "bcoin",
-            "stars": 3067
+            "stars": 3066
           }
         },
         {
@@ -505,7 +505,7 @@
             "last_commit": "2026-05-28T03:49:10Z",
             "owner": "forgesworn",
             "repo": "toll-booth",
-            "stars": 1
+            "stars": 2
           }
         }
       ],
@@ -616,10 +616,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-30T03:57:54Z",
+            "last_commit": "2026-05-31T03:51:42Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2629
+            "stars": 2630
           }
         },
         {
@@ -768,7 +768,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T22:40:37Z",
+            "last_commit": "2026-05-30T17:00:56Z",
             "owner": "NostrGameEngine",
             "repo": "bech32",
             "stars": 1
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-05-25T19:04:11Z",
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4987
+            "stars": 4986
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25208
+            "stars": 25210
           }
         },
         {
@@ -1121,7 +1121,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:47:44.345Z",
+    "last_updated": "2026-05-31T06:18:12.266Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
