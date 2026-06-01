@@ -41,7 +41,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-22T18:49:20Z",
+            "last_commit": "2026-05-31T20:46:44Z",
             "owner": "boazeb",
             "repo": "papervault",
             "stars": 17
@@ -356,7 +356,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-31T00:58:56Z",
+            "last_commit": "2026-06-01T01:51:12Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 39
@@ -453,7 +453,7 @@
             "last_commit": "2026-05-14T14:28:03Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 909
+            "stars": 910
           }
         },
         {
@@ -616,10 +616,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-31T03:51:42Z",
+            "last_commit": "2026-05-31T16:00:42Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2630
+            "stars": 2631
           }
         },
         {
@@ -968,7 +968,7 @@
             "last_commit": "2026-05-15T02:54:26Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6688
+            "stars": 6689
           }
         },
         {
@@ -1121,7 +1121,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:18:12.266Z",
+    "last_updated": "2026-06-01T06:55:24.676Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "source_repository": "v1nvn/enhansome-bitcoin",
     "source_repository_description": null,
